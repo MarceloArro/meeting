@@ -10,7 +10,7 @@ A Flutter project to connect with your friend using realtime location and realti
 ![splashScreen](./resources/splash.png) ![map](./resources/map.png) ![chat](./resources/map_chat.png)
 
 ## Videos
-![groups](./resources/group.gif) ![login](./resources/login.gif)  ![login error](./resources/login-error.gif) ![home and create](./resources/create.gif) ![profile](./resources/profile.gif) ![groups2](./resources/groups2.gif) ![map](./resources/map.gif) 
+![groups](./resources/group.gif) ![login](./resources/login.gif)  ![login error](./resources/login-error.gif) ![home and create](./resources/create.gif) ![profile](./resources/profile.gif) ![groups2](./resources/group2.gif) ![map](./resources/map.gif) 
 ## Resources
 - Socket IO.
 - MapBox.
