@@ -7,7 +7,7 @@ A Flutter project to connect with your friend using realtime location and realti
 ![splashScreen](./resources/splash.png) ![map](./resources/map.png) ![chat](./resources/map_chat.png)
 
 ## Videos
-![flow1](./resources/video1.gif)
+![groups](./resources/group.gif) ![login](./resources/login.gif)  ![login error](./resources/login-error.gif)
 
 ## Download link 
 
